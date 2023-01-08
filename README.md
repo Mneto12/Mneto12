@@ -14,7 +14,10 @@ I work with curiosity, high detail to make greater result in my applications wit
 *   ✉️  You can contact me at [envenezuela2000@gmail.com](mailto:envenezuela2000@gmail.com)
 *   🚀  I'm currently working on [Servieduca](http://www.servieduca.net)
 *   🧠  I'm learning TypeScript | Clean Arquitecture | MongoDB | Avanced Backend
-*   🤝  I'm open to collaborating on projects with great impact on people and science### Skills 
+*   🤝  I'm open to collaborating on projects with great impact on people and science
+
+### Skills
+
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -36,9 +39,7 @@ I work with curiosity, high detail to make greater result in my applications wit
                   
 <p align="left"> <a href="https://www.linkedin.com/in/miguel-coronel-840560145/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/Mneto12"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mneto12&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
