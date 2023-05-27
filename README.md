@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miguel Coronel
 ======================================================================================================================================
 
-Web developer, engineering student
+FullStack Developer
 ----------------------------------
 
-I’m self student and web developer focused in the front-end, recently building applications with TypeScript, React JS, Tailwind CSS with experience in the educational sector builing games, Activities, online courses and freelance projects for commercials companies. Right now, learning clean architecture and advanced backend topics.
+👋 Hi there, I'm a Full Stack developer. I've been working on applications using TypeScript, React JS, Node and NestJS, and I have experience building educational games, activities, online courses and systems for multiples companies.
 
 I am passionate about the educational sector and be able to work on projects to improve the quality of life of the people with great impact.
 
@@ -12,8 +12,7 @@ I work with curiosity, high detail to make greater result in my applications wit
 
 *   🌍  I'm based in Maracaibo, Venezuela
 *   ✉️  You can contact me at [envenezuela2000@gmail.com](mailto:envenezuela2000@gmail.com)
-*   🚀  I'm currently working on [Promokore](https://www.promokore.com/)
-*   🧠  I'm learning TypeScript | GSAP | Avancend animations | MongoDB | Avanced Backend
+*   🧠  I'm learning TypeScript | NextJS | Redux | GraqhQL | AI
 *   🤝  I'm open to collaborating on projects with great impact on people and science
 
 ### Skills
