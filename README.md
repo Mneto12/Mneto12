@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Developer
 ----------------------------------
 
-👋 Hi there, I'm a Full Stack developer. I've been working on applications using TypeScript, React JS, Node and NestJS, and I have experience building educational games, activities, online courses and systems for multiples companies.
+👋 Hi there. I've been working on applications using TypeScript, React JS, Node and NestJS, and I have experience building educational games, activities, online courses and systems for multiples companies.
 
 I am passionate about the educational sector and be able to work on projects to improve the quality of life of the people with great impact.
 
