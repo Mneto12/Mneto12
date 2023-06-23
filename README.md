@@ -11,6 +11,7 @@ I am passionate about the educational sector and be able to work on projects to 
 I work with curiosity, high detail to make greater result in my applications with honesty, responsibility and assertive communication on the work team. Always in permanent change, learning new things and topics every day to offer innovative solutions
 
 *   🌍  I'm based in Maracaibo, Venezuela
+*   Working in Kanaryo as Backend Developer
 *   ✉️  You can contact me at [envenezuela2000@gmail.com](mailto:envenezuela2000@gmail.com)
 *   🧠  I'm learning TypeScript | NextJS | Redux | GraqhQL | AI
 *   🤝  I'm open to collaborating on projects with great impact on people and science
