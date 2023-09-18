@@ -1,20 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miguel Coronel
+Miguel Coronel
 ======================================================================================================================================
 
 FullStack Developer
 ----------------------------------
 
-👋 Hi there. I've been working on applications using TypeScript, React JS, Node and NestJS, and I have experience building educational games, activities, online courses and systems for multiples companies.
+👋 Hi there. I've been working on applications using TypeScript, React JS, Node with NestJS and AdonisJS. I have experience building educational backends or frontends and systems for multiples companies.
 
-I am passionate about the educational sector and be able to work on projects to improve the quality of life of the people with great impact.
+I am passionate about the hard problems in multiple sectors and be able to work on projects to improve the quality of life of the people with great impact.
 
-I work with curiosity, high detail to make greater result in my applications with honesty, responsibility and assertive communication on the work team. Always in permanent change, learning new things and topics every day to offer innovative solutions
+I work with eager of learning, high detail to make greater result in my applications with honesty, responsibility and assertive communication on the work team. Always in permanent change, learning new things and topics every day to offer innovative solutions
 
 *   🌍  I'm based in Maracaibo, Venezuela
 *   Working in Kanaryo as Backend Developer
 *   ✉️  You can contact me at [envenezuela2000@gmail.com](mailto:envenezuela2000@gmail.com)
-*   🧠  I'm learning TypeScript | NextJS | Redux | GraqhQL | AI
-*   🤝  I'm open to collaborating on projects with great impact on people and science
+*   🧠  I'm learning NextJS | Redux | Arquitectural patterns | AI
+*   🤝  I'm open to collaborating on projects with great impact
 
 ### Skills
 
