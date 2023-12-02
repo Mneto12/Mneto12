@@ -11,7 +11,7 @@ I am passionate about the hard problems in multiple sectors and be able to work 
 I work with eager of learning, high detail to make greater result in my applications with honesty, responsibility and assertive communication on the work team. Always in permanent change, learning new things and topics every day to offer innovative solutions
 
 *   🌍  I'm based in Maracaibo, Venezuela
-*   Working in Kanaryo as Backend Developer
+*   Open to Work
 *   ✉️  You can contact me at [envenezuela2000@gmail.com](mailto:envenezuela2000@gmail.com)
 *   🧠  I'm learning NextJS | Redux | Arquitectural patterns | AI
 *   🤝  I'm open to collaborating on projects with great impact
