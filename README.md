@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Coronel</h1>
-- 🔭 I’m currently working on [SaaS AI](https://github.com/Mneto12/SaaS_AI)
+- 🔭 I’m currently working on SaaS AI proyect
 
 - 🌱 I’m currently learning **AI, Deep learning and Backend Stuffs**
 
