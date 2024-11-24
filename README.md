@@ -1,15 +1,14 @@
 Hi 👋 My name is Miguel Coronel
 ===============================
 
-FullStack Developer
+Software Engineer
 -------------------
 
-I've been working on applications using TypeScript, AdonisJS, React JS, Node and NestJS, and I have experience building strong applications and systems for multiples companies.
+I've been working on applications using TypeScript, React Native, React JS, Node and NestJS, and I have experience building strong applications and systems for multiples companies.
 
 *   🌍  I'm based in Venezuela
 *   ✉️  You can contact me at [envenezuela2000@gmail.com](mailto:envenezuela2000@gmail.com)
-*   🧠  I'm learning AI | ML | Deep Learning
-*   🤝  I'm open to collaborating on All kind of projects
+*   🧠  I'm learning AWS Certified Cloud Practitioner
 *   ⚡  I have experience with Clean Arquitecture and Big projects
 
 ### Skills 
